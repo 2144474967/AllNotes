@@ -1,0 +1,24 @@
+{
+  "id": "conv-1781603540279-xuqzebo69",
+  "providerId": "claude",
+  "title": "将寻址方式后的几个标题降级，放置于寻址方式下",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781603540285,
+  "updatedAt": 1781620337243,
+  "lastResponseAt": 1781620337243,
+  "sessionId": "0c559b30-b626-4558-895f-0fb922761974",
+  "providerState": {
+    "providerSessionId": "0c559b30-b626-4558-895f-0fb922761974"
+  },
+  "currentNote": "计算机组成原理/计算机组成原理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
